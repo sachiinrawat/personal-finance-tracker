@@ -338,8 +338,8 @@ const LandingPage = () => {
           </div>
           
           <div className="text-center text-white/60 space-y-2">
-            <p>&copy; 2024 FinanceTracker. All rights reserved.</p>
-            <p>Built with ❤️ using React, Node.js, and MongoDB</p>
+            <p>&copy; 2025 FinanceTracker. All rights reserved.</p>
+            <p>Built with ❤️ MERN Stack</p>
             <div className="flex justify-center space-x-6 mt-4">
               <span className="hover:text-white transition-colors cursor-pointer">Privacy Policy</span>
               <span className="hover:text-white transition-colors cursor-pointer">Terms of Service</span>
